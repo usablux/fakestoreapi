@@ -1,0 +1,220 @@
+{
+    " products": [
+        {
+            "id": 1,
+            "thumbnail": "https://unsplash.com/photos/black-and-brown-plastic-pack-pI2OBA-M8PY",
+            "images": [
+                {
+                    "id": 1,
+                    "src": "https://unsplash.com/photos/black-and-gold-perfume-bottle-Ze0N03QdwRY"
+                },
+                {
+                    "id": 2,
+                    "src": "https://unsplash.com/photos/a-chanel-bottle-with-a-black-lanyard-around-it-lePX2JK8ZSY"
+                },
+                {
+                    "id": 3,
+                    "src": "https://unsplash.com/photos/black-and-gold-perfume-bottle-T4-HnUU5Qmo"
+                },
+                {
+                    "id": 4,
+                    "src": "https://unsplash.com/photos/person-holding-black-and-white-labeled-bottle-l3KNVhfx-7k"
+                }
+            ],
+            "title": "يعبّر عطر COCO عن قوّة شخصية و تتألق هذه الجوهرة المستخلصة من نفحات عنبرية وحارّة، في القارورة الرمزيّة المجمّلة يدوياً ",
+            "currency": "دج",
+            "brand": "coco chanel",
+            "price": 3800,
+            "last_price": 4500,
+            "promo": "30%",
+            "rating": {
+                "rate": 3.9,
+                "count": 120
+            },
+            "category": "العناية بالجسم",
+            "options": {
+                "models": [
+                    {
+                        "model_name": 1,
+                        "model_thumbnail": "https://unsplash.com/photos/black-and-gold-perfume-bottle-Ze0N03QdwRY"
+                    },
+                    {
+                        "model_name": 2,
+                        "model_thumbnail": "https://unsplash.com/photos/a-chanel-bottle-with-a-black-lanyard-around-it-lePX2JK8ZSY"
+                    },
+                    {
+                        "model_name": 3,
+                        "model_thumbnail": "https://unsplash.com/photos/black-and-gold-perfume-bottle-T4-HnUU5Qmo"
+                    },
+                    {
+                        "model_name": 4,
+                        "model_thumbnail": "https://unsplash.com/photos/a-chanel-bottle-with-a-black-lanyard-around-it-lePX2JK8ZSY"
+                    }
+                ]
+            },
+            "description": "يتفتّح العطر مع النفحات الحمضية التي تميّز اليوسفي الصقلي، وتكشف عن جوهر ينعش الحواس مع خلاصة الياسمين ووردة مايو. ويلفّ هذا التناغم الفاخر أثر البتشول الإندونيسي، وفول التونكا والجاوي.",
+        },
+        {
+            "id": 2,
+            "thumbnail": "https://unsplash.com/photos/black-and-brown-plastic-pack-pI2OBA-M8PY",
+            "images": [
+                {
+                    "id": 1,
+                    "src": "https://unsplash.com/photos/black-and-gold-perfume-bottle-Ze0N03QdwRY"
+                },
+                {
+                    "id": 2,
+                    "src": "https://unsplash.com/photos/a-chanel-bottle-with-a-black-lanyard-around-it-lePX2JK8ZSY"
+                },
+                {
+                    "id": 3,
+                    "src": "https://unsplash.com/photos/black-and-gold-perfume-bottle-T4-HnUU5Qmo"
+                },
+                {
+                    "id": 4,
+                    "src": "https://unsplash.com/photos/person-holding-black-and-white-labeled-bottle-l3KNVhfx-7k"
+                }
+            ],
+            "title": "يعبّر عطر COCO عن قوّة شخصية و تتألق هذه الجوهرة المستخلصة من نفحات عنبرية وحارّة، في القارورة الرمزيّة المجمّلة يدوياً ",
+            "currency": "دج",
+            "brand": "coco chanel",
+            "price": 3800,
+            "last_price": 4500,
+            "promo": "30%",
+            "rating": {
+                "rate": 3.9,
+                "count": 120
+            },
+            "category": "العناية بالجسم",
+            "options": {
+                "models": [
+                    {
+                        "model_name": 1,
+                        "model_thumbnail": "https://unsplash.com/photos/black-and-gold-perfume-bottle-Ze0N03QdwRY"
+                    },
+                    {
+                        "model_name": 2,
+                        "model_thumbnail": "https://unsplash.com/photos/a-chanel-bottle-with-a-black-lanyard-around-it-lePX2JK8ZSY"
+                    },
+                    {
+                        "model_name": 3,
+                        "model_thumbnail": "https://unsplash.com/photos/black-and-gold-perfume-bottle-T4-HnUU5Qmo"
+                    },
+                    {
+                        "model_name": 4,
+                        "model_thumbnail": "https://unsplash.com/photos/a-chanel-bottle-with-a-black-lanyard-around-it-lePX2JK8ZSY"
+                    }
+                ]
+            },
+            "description": "يتفتّح العطر مع النفحات الحمضية التي تميّز اليوسفي الصقلي، وتكشف عن جوهر ينعش الحواس مع خلاصة الياسمين ووردة مايو. ويلفّ هذا التناغم الفاخر أثر البتشول الإندونيسي، وفول التونكا والجاوي.",
+        },
+        {
+            "id": 3,
+            "thumbnail": "https://unsplash.com/photos/black-and-brown-plastic-pack-pI2OBA-M8PY",
+            "images": [
+                {
+                    "id": 1,
+                    "src": "https://unsplash.com/photos/black-and-gold-perfume-bottle-Ze0N03QdwRY"
+                },
+                {
+                    "id": 2,
+                    "src": "https://unsplash.com/photos/a-chanel-bottle-with-a-black-lanyard-around-it-lePX2JK8ZSY"
+                },
+                {
+                    "id": 3,
+                    "src": "https://unsplash.com/photos/black-and-gold-perfume-bottle-T4-HnUU5Qmo"
+                },
+                {
+                    "id": 4,
+                    "src": "https://unsplash.com/photos/person-holding-black-and-white-labeled-bottle-l3KNVhfx-7k"
+                }
+            ],
+            "title": "يعبّر عطر COCO عن قوّة شخصية و تتألق هذه الجوهرة المستخلصة من نفحات عنبرية وحارّة، في القارورة الرمزيّة المجمّلة يدوياً ",
+            "currency": "دج",
+            "brand": "coco chanel",
+            "price": 3800,
+            "last_price": 4500,
+            "promo": "30%",
+            "rating": {
+                "rate": 3.9,
+                "count": 120
+            },
+            "category": "العناية بالجسم",
+            "options": {
+                "models": [
+                    {
+                        "model_name": 1,
+                        "model_thumbnail": "https://unsplash.com/photos/black-and-gold-perfume-bottle-Ze0N03QdwRY"
+                    },
+                    {
+                        "model_name": 2,
+                        "model_thumbnail": "https://unsplash.com/photos/a-chanel-bottle-with-a-black-lanyard-around-it-lePX2JK8ZSY"
+                    },
+                    {
+                        "model_name": 3,
+                        "model_thumbnail": "https://unsplash.com/photos/black-and-gold-perfume-bottle-T4-HnUU5Qmo"
+                    },
+                    {
+                        "model_name": 4,
+                        "model_thumbnail": "https://unsplash.com/photos/a-chanel-bottle-with-a-black-lanyard-around-it-lePX2JK8ZSY"
+                    }
+                ]
+            },
+            "description": "يتفتّح العطر مع النفحات الحمضية التي تميّز اليوسفي الصقلي، وتكشف عن جوهر ينعش الحواس مع خلاصة الياسمين ووردة مايو. ويلفّ هذا التناغم الفاخر أثر البتشول الإندونيسي، وفول التونكا والجاوي.",
+        },
+        {
+            "id": 4,
+            "thumbnail": "https://unsplash.com/photos/black-and-brown-plastic-pack-pI2OBA-M8PY",
+            "images": [
+                {
+                    "id": 1,
+                    "src": "https://unsplash.com/photos/black-and-gold-perfume-bottle-Ze0N03QdwRY"
+                },
+                {
+                    "id": 2,
+                    "src": "https://unsplash.com/photos/a-chanel-bottle-with-a-black-lanyard-around-it-lePX2JK8ZSY"
+                },
+                {
+                    "id": 3,
+                    "src": "https://unsplash.com/photos/black-and-gold-perfume-bottle-T4-HnUU5Qmo"
+                },
+                {
+                    "id": 4,
+                    "src": "https://unsplash.com/photos/person-holding-black-and-white-labeled-bottle-l3KNVhfx-7k"
+                }
+            ],
+            "title": "يعبّر عطر COCO عن قوّة شخصية و تتألق هذه الجوهرة المستخلصة من نفحات عنبرية وحارّة، في القارورة الرمزيّة المجمّلة يدوياً ",
+            "currency": "دج",
+            "brand": "coco chanel",
+            "price": 3800,
+            "last_price": 4500,
+            "promo": "30%",
+            "rating": {
+                "rate": 3.9,
+                "count": 120
+            },
+            "category": "العناية بالجسم",
+            "options": {
+                "models": [
+                    {
+                        "model_name": 1,
+                        "model_thumbnail": "https://unsplash.com/photos/black-and-gold-perfume-bottle-Ze0N03QdwRY"
+                    },
+                    {
+                        "model_name": 2,
+                        "model_thumbnail": "https://unsplash.com/photos/a-chanel-bottle-with-a-black-lanyard-around-it-lePX2JK8ZSY"
+                    },
+                    {
+                        "model_name": 3,
+                        "model_thumbnail": "https://unsplash.com/photos/black-and-gold-perfume-bottle-T4-HnUU5Qmo"
+                    },
+                    {
+                        "model_name": 4,
+                        "model_thumbnail": "https://unsplash.com/photos/a-chanel-bottle-with-a-black-lanyard-around-it-lePX2JK8ZSY"
+                    }
+                ]
+            },
+            "description": "يتفتّح العطر مع النفحات الحمضية التي تميّز اليوسفي الصقلي، وتكشف عن جوهر ينعش الحواس مع خلاصة الياسمين ووردة مايو. ويلفّ هذا التناغم الفاخر أثر البتشول الإندونيسي، وفول التونكا والجاوي.",
+        }
+    ]
+}
